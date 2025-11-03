@@ -38,7 +38,7 @@ Recommendations
 Files included
 - nikto_scan_results.txt
 - README.md
-- (Optional) screenshots/nikto_scan.png
+- nikto_scan.png
 
 Notes
 This scan was performed in a local lab environment (DVWA) for educational purposes only. Do not scan systems you do not own or have permission to test.
